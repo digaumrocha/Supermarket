@@ -1,0 +1,4 @@
+Supermarket consiste em um tracker de preços produtos em supermercados.
+Após a compra o cliente escaneia a Nota Fiscal através do QR code e o valor pago pelos produtos alimenta o aplicativo.
+Esse cliente recebe um percentual de sua compra em pontos que podem ser trocados por produtos no futuro.
+Os demais consumidores podem acessar os preços em tempo real escolhendo o local mais economico para efetuar sua compra e caso seja em um dos estabelecimentos parceiros pode receber descontos especiais.
